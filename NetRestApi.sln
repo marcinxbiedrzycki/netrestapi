@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetRestApi", "NetRestApi\NetRestApi.csproj", "{225D6C35-879E-4BC3-8288-3FF7321FD499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetRestApiTests", "NetRestApiTests\NetRestApiTests.csproj", "{0873D77F-395A-4AB2-8A8B-60DDEEB0F051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225D6C35-879E-4BC3-8288-3FF7321FD499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225D6C35-879E-4BC3-8288-3FF7321FD499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225D6C35-879E-4BC3-8288-3FF7321FD499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225D6C35-879E-4BC3-8288-3FF7321FD499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0873D77F-395A-4AB2-8A8B-60DDEEB0F051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0873D77F-395A-4AB2-8A8B-60DDEEB0F051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0873D77F-395A-4AB2-8A8B-60DDEEB0F051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0873D77F-395A-4AB2-8A8B-60DDEEB0F051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
